@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 25.09.2025
 ## Register Number: 25015924
-## Name:Nithya Shree
+## Name: Nithyaa Shree
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
