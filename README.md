@@ -54,7 +54,7 @@ This solution tackles key farming challenges such as low productivity, unpredict
 
 The innovation lies in combining AI-based predictive analytics with IoT sensors and mobile accessibility. Unlike traditional advisory methods, this system uses real-time data from soil sensors and satellite weather updates to give location-specific recommendations. A multilingual mobile app ensures farmers can access guidance in their local language, making it inclusive and user-friendly. Additionally, the integration of market price forecasting helps farmers plan the best time to sell their produce for maximum profit.
 </li></ul>
-<pre>[Start: Problem Identified]
+<pre>[Start: Problem Found]
        |
        V
 [Phase 1: Research & Discovery]
