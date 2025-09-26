@@ -214,5 +214,4 @@ Helps maintain soil health by recommending the right crops and nutrient manageme
   <li><a href="https://www.agilealliance.org/agile101/">https://www.agilealliance.org/agile101/</a></li>
   <li><a href="https://www.mongodb.com/docs/">https://www.mongodb.com/docs/</a></li>
   <li><a href="https://react.dev/">https://react.dev/</a></li>
-  <li><a href="https://nodejs.org/en/docs/">https://nodejs.org/en/docs/</a></li>
 </ul>
